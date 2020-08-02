@@ -1,0 +1,74 @@
+{
+  "markers": [
+    {
+      "y": 101.40625,
+      "text": "2MASS J02333009+6128540: Prasinum Bioluminescent Anemone",
+      "z": -4157.59375,
+      "pin": "blue",
+      "x": -4186.4375
+    },
+    {
+      "y": 0,
+      "text": "Dryoi Flyue YS-K b53-1: Water Ice Fumarole",
+      "z": 0,
+      "pin": "blue",
+      "x": 0
+    },
+    {
+      "y": -146.6875,
+      "text": "Gamma Velorum: stellarRemnant",
+      "z": -133.59375,
+      "pin": "blue",
+      "x": 1099.21875
+    },
+    {
+      "y": -150.90625,
+      "text": "HD 68324: restrictedSectors",
+      "z": -122.15625,
+      "pin": "blue",
+      "x": 1088.4375
+    },
+    {
+      "y": -48.375,
+      "text": "Hypio Pri EK-C d14-2903: Roseum Sinuous Tubers",
+      "z": 25813.3125,
+      "pin": "blue",
+      "x": 1.8125
+    },
+    {
+      "y": -1056.5,
+      "text": "Juenae OX-U e2-8852 B: L-Type Anomalies",
+      "z": 26400.375,
+      "pin": "blue",
+      "x": 652.46875
+    },
+    {
+      "y": 48.75,
+      "text": "Leesti: Silicate Magma Lava Spout",
+      "z": 68.25,
+      "pin": "blue",
+      "x": 72.75
+    },
+    {
+      "y": 2111.125,
+      "text": "MM Velorum: stellarRemnant",
+      "z": 1313.78125,
+      "pin": "blue",
+      "x": 12759.96875
+    },
+    {
+      "y": 60.59375,
+      "text": "PSR J0633+1746: pulsar",
+      "z": -784.5625,
+      "pin": "blue",
+      "x": 212.15625
+    },
+    {
+      "y": 469.125,
+      "text": "PSR J0751+1807: pulsar",
+      "z": -1122.21875,
+      "pin": "blue",
+      "x": 470.09375
+    }
+  ]
+}
