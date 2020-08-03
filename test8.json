@@ -1,0 +1,32 @@
+{
+  "markers": [
+    {
+      "y": -91.71875,
+      "text": "Yaimae VV-T d4-4: Silicate Vapour Fumarole",
+      "z": 17272,
+      "pin": "blue",
+      "x": 27137.75
+    },
+    {
+      "y": 0,
+      "text": "HIP 51678: Brain Trees",
+      "z": -19000,
+      "pin": "red",
+      "x": -32000
+    },
+    {
+      "y": -2479,
+      "text": "Xeehuia XQ-T d4-5: Sulphur Dioxide Gas Vent",
+      "z": 10575.125,
+      "pin": "blue",
+      "x": 1478.375
+    },
+    {
+      "y": -441.40625,
+      "text": "Witch Head Sector DL-Y d7: Bark Mounds\nWitch Head Sector DL-Y d7: Non-Human Signal Source\nWitch Head Sector EB-X c1-7: Non-Human Signal Source\nWitch Head Sector EB-X c1-7: Bark Mounds",
+      "z": -699.96875,
+      "pin": "blue",
+      "x": 419.84375
+    }
+  ]
+}
